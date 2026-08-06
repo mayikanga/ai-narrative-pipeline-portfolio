@@ -1,0 +1,15 @@
+# Local secrets and runtime outputs
+.env
+.env.*
+*.key
+*.token
+raw-responses/
+agent-prompts/
+run-results/
+测试结果/
+运行结果/
+
+# Local editor and system files
+.DS_Store
+Thumbs.db
+.vscode/
